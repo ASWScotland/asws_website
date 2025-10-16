@@ -1,0 +1,18 @@
+{
+  "name": "African Social Workers Scotland",
+  "short_name": "ASWS",
+  "description": "Professional community supporting African social workers across Scotland",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/ASWS.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
